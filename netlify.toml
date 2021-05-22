@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
-  publish="covid-dot/build"
-  base = "covid-dot/"
+  publish="covid-support/build"
+  base = "covid-support/"
 
 [[redirects]]
   from = "/*"
